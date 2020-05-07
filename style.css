@@ -1,0 +1,44 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+@media screen and (min-width: 480px) {
+	#main-bar {
+		text-align: center;
+
+	}
+}
+
+#main-bar{
+	background-color: blue;
+	padding: 10px 0px 10px 0px;
+
+}
+
+#icons a{
+	padding: 10px;
+
+}
+
+.top-btn{
+	padding: 5px;
+	border-color: black;
+	border: 3px;
+	color: green;
+}
+
+
+#nav-home{
+	color: white;
+	background-color: blue;
+	border-radius: 50px;
+	padding: 10px;
+	border: none;
+	text-decoration-style: none;
+}
+
+
+.last-icon{
+	padding-left: 10px;
+}
